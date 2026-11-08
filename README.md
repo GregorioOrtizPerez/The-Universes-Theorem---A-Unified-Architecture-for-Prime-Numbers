@@ -1,6 +1,6 @@
 # The Universes Theorem: A Unified Architecture for Prime Numbers
 
-> A closed, deterministic, tripartite architectural system ($U_1, U_2, U_3$) for prime numbers and structural collision elimination on the $U_1$ grid ($6k \pm 1$).
+> A closed, deterministic, tripartite architectural system ($U_1, U_2, U_3$) for prime numbers and structural collision elimination on the $U_1$ grid ($6k \pm 5$).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23730643.svg)](https://doi.org/10.5281/zenodo.23730643)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
