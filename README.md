@@ -1,4 +1,4 @@
-# The Universes Theorem: A Unified Architecture
+# The Universes Theorem: A Unified Architecture for Prime Numbers
 
 > A closed, deterministic, tripartite architectural system ($U_1, U_2, U_3$) for prime numbers and structural collision elimination on the $U_1$ grid ($6k \pm 1$).
 
